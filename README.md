@@ -1,7 +1,7 @@
 # Manual Testing Project
 
 
-This repository contains the manual testing project reports for an educational technology (EduTech) website. 
+This manual testing mini project of EduTech website. I have identified and documented bugs on a school searching website.
 Below are the summary of bugs found.
 
 URL: https://yellowslate.com
